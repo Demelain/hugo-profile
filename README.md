@@ -47,7 +47,7 @@ cd themes
 git clone https://github.com/gurusabarish/hugo-profile.git
 ```
 - Create config.yaml (you can use `config.toml` too) inside root folder 
-- Setup the configurations in `config.yaml`. [reference](https://github.com/gurusabarish/hugo-profile/blob/master/exampleSite/config.yaml)
+- Setup the configurations in `config.yaml`. [reference](https://github.com/gurusabarish/hugo-profile/blob/master/defibyalex/config.yaml)
 - You should have the mentioned (_inside the config file_) images in static folder to use them.
 
 For more details: [Hugo's official docs](https://gohugo.io/getting-started/quick-start/), [content management](https://www.mikedane.com/static-site-generators/hugo/content-organization/)
@@ -55,7 +55,7 @@ For more details: [Hugo's official docs](https://gohugo.io/getting-started/quick
 ## Direct deployment using netlify
 
 - Fork this repo or create new repo using `use this template` button and connect repo to netlify.
-- whenever you customize the files exampleSite folder, netlify will automatically deploy your changes.
+- whenever you customize the files defibyalex folder, netlify will automatically deploy your changes.
 
 For more details: [host on netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/), [content management](https://www.mikedane.com/static-site-generators/hugo/content-organization/)
 
